@@ -1,0 +1,14 @@
+<html>
+<head>
+  <title>{{ pagetitle }}</title>
+  <link rel="stylesheet"
+        href="{{ request.static_url('myaddon:static/site.css') }}"/>
+</head>
+<body>
+<h1>{{ pagetitle }}</h1>
+
+<p>You can also go to <a href="{{ request.route_url(otherroute) }}">the
+  next page</a>.</p>
+
+</body>
+</html>

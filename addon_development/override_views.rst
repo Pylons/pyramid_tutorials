@@ -1,15 +1,19 @@
-================================
-Override Views and Static Assets
-================================
+==============
+Override Views
+==============
 
 *Base add-on with views that can be customized by overriding.*
 
-- Imagine you have a ready-to-go application such as Django/Plone
+- Imagine you have a ready-to-go "Great Site" Python application such as
+  Django/Plone
 
-- In your site, you want that application to wire up any views or
-  CSS/JS/PNG needed so that you don't have to know the inner details
+- Your users make sites based on Great Site
 
-- But you might want to replace individual pieces
+- Their sites should turn on with everything working...it is, of course,
+  an application
+
+- But you'd like to let them replace any view, for example, the login
+  view
 
 Implementation
 ==============
