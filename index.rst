@@ -66,6 +66,8 @@ name/link          ET* title                   description                     c
                                                                                                     * Custom NotFound view
 `pycharm`_         1h  Using PyCharm with      A getting started guide
                        Pyramid                 for Pyramid using PyCharm
+`addon_dev`_       1h  Pyramid Add-On          How to extend Pyramid and       `addon_dev`_
+                       Development             make custom frameworks
 `traversal`_       2d  Quick Tour for          Overview of traversal:          `pyramid_tutorials`_ * Site root
                        Traversal               Hierarchies, views, etc.        (this site)          * Hierarchy
                                                                                                     * Type-specific views
@@ -94,6 +96,7 @@ name/link          ET* title                   description                     c
 .. _pyramid_blogr: https://github.com/Pylons/pyramid_blogr
 .. _cguardia_tut: https://github.com/cguardia/Pyramid-Tutorial
 .. _traversal: http://docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/quick_traversal/index.html
+.. _addon_dev: http://docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/addon_development/index.html
 
 Indices and tables
 ==================
@@ -112,4 +115,4 @@ Indices and tables
    _themes/README
    pycharm/index
    quick_traversal/index.rst
-   pyramid_addons/README.rst
+   addon_development/index.rst
