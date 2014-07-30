@@ -14,7 +14,8 @@ templates then point to the needed JS.
 
 But what if you choose a URL prefix that clashes with their URL space?
 What if you change your mind later to a new prefix, thus breaking
-everything on their side?
+everything on their side? What if that one site wants to move all the
+static resources out to be served from a CDN?
 
 Pyramid's static views can point at package-based asset specifications,
 rather than URL paths, and have the URL path generated. The prefix used

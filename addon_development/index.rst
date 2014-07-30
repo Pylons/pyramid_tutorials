@@ -15,3 +15,4 @@ points for other developers.
   config_include
   override_views
   asset_urls
+  override_assets
