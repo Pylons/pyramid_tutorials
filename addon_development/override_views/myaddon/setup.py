@@ -5,6 +5,6 @@ requires = [
     'pyramid_jinja2'
 ]
 
-setup(name='pyramid_demo',
+setup(name='myaddon',
       install_requires=requires,
 )

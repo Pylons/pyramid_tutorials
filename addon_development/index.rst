@@ -12,4 +12,5 @@ points for other developers.
 
 .. toctree::
 
-  config-include
+  config_include
+  override_views

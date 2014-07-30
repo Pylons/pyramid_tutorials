@@ -3,15 +3,8 @@ Pyramid Add-On Developer Tutorial
 
 Temporary holding place for material in Brazil.
 
-
-- (project_setup) Make a project
-  - pyramid_demo
-    - depends on pyramid_jinja2
-  - my_demo
-- config.include
-  - included in the other
-  - config.include('pyramid_jinja2')
-  - Explain ordering on .include vs. .scan
+- Static assets in addon
+- Override view and asset
 - Settings
   - pyramid_demo expects the WSGI app to provide a copyright setting
   - pyramid_demo
@@ -39,3 +32,5 @@ Temporary holding place for material in Brazil.
   - Add an "audience" predicate
   - Set audience=['novice', 'intermediate', 'advanced'] on content
   - @view_config(audience='novice', renderer='different template')
+- Divide your add-on into individually-included sub-addons
+- Tween
