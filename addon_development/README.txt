@@ -3,8 +3,6 @@ Pyramid Add-On Developer Tutorial
 
 Temporary holding place for material in Brazil.
 
-- Static assets in addon
-- Override view and asset
 - Settings
   - pyramid_demo expects the WSGI app to provide a copyright setting
   - pyramid_demo

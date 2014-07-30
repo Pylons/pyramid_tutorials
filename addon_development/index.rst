@@ -16,3 +16,4 @@ points for other developers.
   override_views
   asset_urls
   override_assets
+  settings
