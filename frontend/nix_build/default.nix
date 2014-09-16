@@ -16,7 +16,7 @@ let
   python = pythonPackages.python;
   buildPythonPackage = pythonPackages.buildPythonPackage;
   customPythonPackages = import ./python-packages.nix {
-    inherit pkgs pythonPackages;
+    inherit pkgs pythonPackages isPython3;
   };
 
 in buildPythonPackage rec {
@@ -26,24 +26,24 @@ in buildPythonPackage rec {
 
   postInstall = ''
     ensureDir $out/bin
-    ln -s ${python}/bin/python${if isPython3 == false then "3" else ""} $out/bin/python
+    ln -s ${python}/bin/python $out/bin/
+    ln -s ${python}/bin/.python-wrapped $out/bin/
     for file in $out/bin/*; do
       wrapProgram $file --prefix PYTHONPATH : $PYTHONPATH
     done
   '';
 
   buildInputs = with customPythonPackages; [
-    #flake8
-    #pytest
-    #pytest-cov
+    flake8
+    pytest
+    pytest-cov
   ] ++ pkgs.lib.optional develop [
-    #ipdb
+    ipdb
+    supervisor
   ];
 
   propagatedBuildInputs = with customPythonPackages; [
     pyramid
-    #pyramid_mako
-    #supervisor
     waitress
   ];
 

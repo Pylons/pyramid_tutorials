@@ -1,5 +1,6 @@
 { pkgs
 , pythonPackages
+, isPython3
 }:
 
 let
@@ -181,7 +182,7 @@ in rec {
     };
     #patches = [ ../development/python-modules/virtualenv-change-prefix.patch ];
     buildInputs = [ mock nose ];
-    propagatedBuildInputs = [
+    propagatedBuildInputs = [] ++ pkgs.lib.optional (isPython3 == false) [
       python.modules.readline python.modules.sqlite3 python.modules.curses
     ];
   };
@@ -305,7 +306,7 @@ in rec {
       url = "http://pypi.python.org/packages/source/p/pyflakes/${name}.tar.gz";
       md5 = "905fe91ad14b912807e8fdc2ac2e2c23";
     };
-    buildInputs = [ unittest2 ];
+    buildInputs = [] ++ pkgs.lib.optional (isPython3 == false) [ unittest2 ];
   };
 
   pep8 = buildPythonPackage rec {
