@@ -1,0 +1,19 @@
+{
+  "name": "tutorial",
+  "description": "Frontend tutorial",
+  "version": "0.1.0",
+  "author": "Paul Everitt",
+  "private": true,
+  "engines": [
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "gulp-load-plugins": "^0.6.0",
+    "gulp-webserver": "^0.7.0",
+    "lodash": "~2.4.0"
+  }
+}

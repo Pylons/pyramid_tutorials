@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "description": "Frontend tutorial",
+  "version": "0.1.0",
+  "authors": [
+    "Paul Everitt"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  },
+  "devDependencies": {},
+  "license": "Open source",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
