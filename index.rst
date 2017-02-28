@@ -48,6 +48,22 @@ name/link          ET* title                   description                     c
                        Dispatch Wiki Tutorial  and URL dispatch                                     * SQLAlchemy
                                                                                                     * security
 
+`entrepreneurs`_   15h Python for              Build an ecommerce app for a    `mikeckennedy_ent`_
+                       Entrepreneurs           rock band, with good marketing
+                                               and design
+
+`consuming_http`_  5h  Consuming HTTP Services Use Pyramid to consume HTTP     `mikeckennedy_http`_
+                       in Python               services in various data
+                                               formats (e.g., JSON, XML, HTML,
+                                               SOAP)
+
+`talk_python`_     5h  RESTful and HTTP APIs   Build RESTful services using    Coming Soon
+                       in Pyramid              Pyramid and SQLAlchemy
+
+`talk_python`_     5h  Building data-driven    Build modern data-driven web    Coming Soon
+                       web applications with   applications
+                       Pyramid and SQLAlchemy
+
 `birdie`_          4h  Birdie Tutorial: a      presented by Carlos de la
                        simple Twitter clone    Guardia at OSCON 2011 and PyCon `cguardia_tut`_
                                                USA 2012
@@ -86,6 +102,9 @@ name/link          ET* title                   description                     c
 .. _firstapp: http://docs.pylonsproject.org/projects/pyramid/en/latest/narr/firstapp.html
 .. _wiki: http://docs.pylonsproject.org/projects/pyramid/en/latest/tutorials/wiki/index.html
 .. _wiki2: http://docs.pylonsproject.org/projects/pyramid/en/latest/tutorials/wiki2/index.html
+.. _entrepreneurs: https://training.talkpython.fm/courses/explore_entrepreneurs/python-for-entrepreneurs-build-and-launch-your-online-business
+.. _consuming_http: https://training.talkpython.fm/courses/details/consuming-http-and-soap-services-in-python-with-json-xml-and-screen-scraping
+.. _talk_python: https://training.talkpython.fm/courses/all
 .. _birdie: https://github.com/cguardia/Pyramid-Tutorial
 .. _blogr: http://pyramid-blogr.readthedocs.org/en/latest/
 .. _pycharm: http://docs.pylonsproject.org/projects/pyramid-cookbook/en/latest/development_tools/pycharm.html
@@ -97,6 +116,8 @@ name/link          ET* title                   description                     c
 .. _pyramid_tutorials: https://github.com/Pylons/pyramid_tutorials
 .. _pyramid_cookbook: https://github.com/Pylons/pyramid_cookbook
 .. _pyramid_blogr: https://github.com/Pylons/pyramid_blogr
+.. _mikeckennedy_ent: https://github.com/mikeckennedy/python-for-entrepreneurs-course-demos
+.. _mikeckennedy_http: https://github.com/mikeckennedy/consuming_services_python_demos
 .. _cguardia_tut: https://github.com/cguardia/Pyramid-Tutorial
 
 Indices and tables
