@@ -1,7 +1,7 @@
 Contributing
 ============
 
-All projects under the Pylons Projects, including this one, follow the guidelines established at [How to Contribute](http://www.pylonsproject.org/community/how-to-contribute).
+All projects under the Pylons Projects, including this one, follow the guidelines established at [How to Contribute](https://pylonsproject.org/community-how-to-contribute.html).
 
 You can contribute to this project in several ways.
 
