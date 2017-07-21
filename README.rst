@@ -2,11 +2,11 @@ Pyramid Tutorials
 =================
 
 A `listing of community contributed tutorials
-<http://docs.pylonsproject.org/projects/pyramid-tutorials/en/latest/>`_ for
+<https://docs.pylonsproject.org/projects/pyramid-tutorials/en/latest/>`_ for
 Pyramid.
 
 Read `documentation of the Pyramid web application framework
-<http://docs.pylonsproject.org/projects/pyramid/en/latest/>`_.
+<https://docs.pylonsproject.org/projects/pyramid/en/latest/>`_.
 
 How to contribute
 -----------------
