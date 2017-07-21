@@ -23,9 +23,9 @@ The source of various tutorials is noted under the column "code repo".
 
 * Official tutorials supported by Pyramid's core contributors are in the code
   repo "pyramid" and appear in the main `Pyramid Documentation
-  <http://docs.pylonsproject.org/projects/pyramid/en/latest/#tutorials>`_.
+  <https://docs.pylonsproject.org/projects/pyramid/en/latest/#tutorials>`_.
 * The `Pyramid Community Cookbook
-  <http://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/>`_ is a
+  <https://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/>`_ is a
   community-based collection of tutorials and recipes.
 
 **ET** is the estimated time to complete each tutorial.
@@ -98,19 +98,19 @@ name/link          ET* title                   description                     c
                                                                                                     * SQLAlchemy
 ================== === ======================= =============================== ==================== ========================================
 
-.. _quick_tutorial: http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html
-.. _firstapp: http://docs.pylonsproject.org/projects/pyramid/en/latest/narr/firstapp.html
-.. _wiki: http://docs.pylonsproject.org/projects/pyramid/en/latest/tutorials/wiki/index.html
-.. _wiki2: http://docs.pylonsproject.org/projects/pyramid/en/latest/tutorials/wiki2/index.html
+.. _quick_tutorial: https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html
+.. _firstapp: https://docs.pylonsproject.org/projects/pyramid/en/latest/narr/firstapp.html
+.. _wiki: https://docs.pylonsproject.org/projects/pyramid/en/latest/tutorials/wiki/index.html
+.. _wiki2: https://docs.pylonsproject.org/projects/pyramid/en/latest/tutorials/wiki2/index.html
 .. _entrepreneurs: https://training.talkpython.fm/courses/explore_entrepreneurs/python-for-entrepreneurs-build-and-launch-your-online-business
 .. _consuming_http: https://training.talkpython.fm/courses/details/consuming-http-and-soap-services-in-python-with-json-xml-and-screen-scraping
 .. _talk_python: https://training.talkpython.fm/courses/all
 .. _birdie: https://github.com/cguardia/Pyramid-Tutorial
 .. _blogr: http://pyramid-blogr.readthedocs.org/en/latest/
-.. _pycharm: http://docs.pylonsproject.org/projects/pyramid-cookbook/en/latest/development_tools/pycharm.html
-.. _single_file: http://docs.pylonsproject.org/projects/pyramid-cookbook/en/latest/sample_applications/single_file_tasks.html
+.. _pycharm: https://docs.pylonsproject.org/projects/pyramid-cookbook/en/latest/development_tools/pycharm.html
+.. _single_file: https://docs.pylonsproject.org/projects/pyramid-cookbook/en/latest/sample_applications/single_file_tasks.html
 .. _todopyramid: https://github.com/indypy/todopyramid
-.. _traversal: http://docs.pylonsproject.org/projects/pyramid-cookbook/en/latest/traversal_tutorial/index.html
+.. _traversal: https://docs.pylonsproject.org/projects/pyramid-cookbook/en/latest/traversal_tutorial/index.html
 
 .. _pyramid: https://github.com/Pylons/pyramid
 .. _pyramid_tutorials: https://github.com/Pylons/pyramid_tutorials
