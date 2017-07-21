@@ -103,10 +103,10 @@ name/link          ET* title                   description                     c
 .. _wiki: https://docs.pylonsproject.org/projects/pyramid/en/latest/tutorials/wiki/index.html
 .. _wiki2: https://docs.pylonsproject.org/projects/pyramid/en/latest/tutorials/wiki2/index.html
 .. _entrepreneurs: https://training.talkpython.fm/courses/explore_entrepreneurs/python-for-entrepreneurs-build-and-launch-your-online-business
-.. _consuming_http: https://training.talkpython.fm/courses/details/consuming-http-and-soap-services-in-python-with-json-xml-and-screen-scraping
+.. _consuming_http: https://training.talkpython.fm/courses/explore_http_reset_client_course/consuming-http-and-soap-services-in-python-with-json-xml-and-screen-scraping
 .. _talk_python: https://training.talkpython.fm/courses/all
 .. _birdie: https://github.com/cguardia/Pyramid-Tutorial
-.. _blogr: http://pyramid-blogr.readthedocs.org/en/latest/
+.. _blogr: https://docs.pylonsproject.org/projects/pyramid-blogr/en/latest/
 .. _pycharm: https://docs.pylonsproject.org/projects/pyramid-cookbook/en/latest/development_tools/pycharm.html
 .. _single_file: https://docs.pylonsproject.org/projects/pyramid-cookbook/en/latest/sample_applications/single_file_tasks.html
 .. _todopyramid: https://github.com/indypy/todopyramid
@@ -115,7 +115,7 @@ name/link          ET* title                   description                     c
 .. _pyramid: https://github.com/Pylons/pyramid
 .. _pyramid_tutorials: https://github.com/Pylons/pyramid_tutorials
 .. _pyramid_cookbook: https://github.com/Pylons/pyramid_cookbook
-.. _pyramid_blogr: https://github.com/Pylons/pyramid_blogr
+.. _pyramid_blogr: https://docs.pylonsproject.org/projects/pyramid-blogr/en/latest/
 .. _mikeckennedy_ent: https://github.com/mikeckennedy/python-for-entrepreneurs-course-demos
 .. _mikeckennedy_http: https://github.com/mikeckennedy/consuming_services_python_demos
 .. _cguardia_tut: https://github.com/cguardia/Pyramid-Tutorial
