@@ -57,7 +57,7 @@ name/link          ET* title                   description                     c
                                                formats (e.g., JSON, XML, HTML,
                                                SOAP)
 
-`restful`_         5h  RESTful and HTTP        Build RESTful services using    `mikeckennedy_restful`_
+`restful`_         8h  RESTful and HTTP        Build RESTful services using    `mikeckennedy_restful`_
                        APIs in Pyramid         Pyramid and SQLAlchemy
 
 `talk_python`_     5h  Building data-driven    Build modern data-driven web    Coming Soon
